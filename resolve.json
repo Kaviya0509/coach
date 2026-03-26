@@ -1,0 +1,30 @@
+{
+  "addrs": [
+    {
+      "name": "ac-8pyvqep-shard-00-00.qfllf8j.mongodb.net",
+      "port": 27017,
+      "priority": 0,
+      "weight": 0,
+      "type": "SRV"
+    },
+    {
+      "name": "ac-8pyvqep-shard-00-01.qfllf8j.mongodb.net",
+      "port": 27017,
+      "priority": 0,
+      "weight": 0,
+      "type": "SRV"
+    },
+    {
+      "name": "ac-8pyvqep-shard-00-02.qfllf8j.mongodb.net",
+      "port": 27017,
+      "priority": 0,
+      "weight": 0,
+      "type": "SRV"
+    }
+  ],
+  "txt": [
+    [
+      "authSource=admin&replicaSet=atlas-p0akgc-shard-0"
+    ]
+  ]
+}
